@@ -1,15 +1,15 @@
 # Site Settings
-title: Jekflix | A theme for Jekyll
-email: youremail@xyz.com
-description: Some text about your blog.
-baseurl: "/jekflix-template" # the subpath of your site, e.g. /blog
-url: "https://www.rossener.com" # the base hostname & protocol for your site
-google_analytics: "UA-XXXXXXXX-X"
+title: 십만분의일 상영관
+email: geaya13@naver.com
+description: 너와 나의 과거,현재, 그리고 앞으로.
+baseurl: "/" # the subpath of your site, e.g. /blog
+#url: "https://www.rossener.com" # the base hostname & protocol for your site
+#google_analytics: "UA-XXXXXXXX-X"
 
 # User Settings
-username: Jekflix
-user_description: Some text about you.
-disqus_username: disqus_username
+username: 십만분의일
+user_description: 우리 이야기
+#disqus_username: disqus_username
 
 # Social Media
 # Remove the item if you don't need it
