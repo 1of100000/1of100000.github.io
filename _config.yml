@@ -7,8 +7,8 @@ baseurl: "/" # the subpath of your site, e.g. /blog
 #google_analytics: "UA-XXXXXXXX-X"
 
 # User Settings
-username: 십만분의일
-user_description: 우리 이야기
+username: 십만분의일 상영관
+user_description: 너와 나의 과거,현재, 그리고 앞으로.
 #disqus_username: disqus_username
 
 # Social Media
